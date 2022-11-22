@@ -1,0 +1,239 @@
+body{
+    background-color: green;
+}
+
+.square{
+    height: 434px;
+    width: 252px;
+    background-color: white;
+    position: relative;
+    left: 500px;
+    top: 100px;
+}
+
+.circle{
+    height: 65px;
+    width: 62px;
+    background-color: aqua;
+    border-radius: 50%;
+    position: relative;
+    left: 600px;
+    top: 70px;
+}
+
+img{
+    height: 17px;
+    width: 16px;
+    position: relative;
+    left: 624px;
+    top: 30px;
+}
+
+h4{
+    height: 37px;
+    width: 267px;
+    font-family: Inter;
+    font-size: 10px;
+    font-weight: bolder;
+    color: #5E6170;
+    position: relative;
+    left: 540px;
+    bottom: 330px;
+}
+
+.second{
+    height: 37px;
+    width: 267px;
+    font-family: Inter;
+    font-size: 10px;
+    font-weight: bolder;
+    color: #5E6170;
+    position: relative;
+    left: 540px;
+    bottom: 330px;
+}
+
+h5{
+    height: 51px;
+    width: 267px;
+    font-family: Inter;
+    font-size: 10px;
+    font-weight: lighter;
+    color: #5E6170;
+    position: relative;
+    left: 540px;
+    bottom: 330px;
+}
+
+.black{
+    height: 51px;
+    width: 267px;
+    font-family: Inter;
+    font-size: 10px;
+    font-weight: lighter;
+    color: #5E6170;
+    position: relative;
+    left: 540px;
+    bottom: 360px;
+}
+
+.black2{
+    height: 51px;
+    width: 267px;
+    font-family: Inter;
+    font-size: 10px;
+    font-weight: lighter;
+    color: #5E6170;
+    position: relative;
+    left: 540px;
+    bottom: 390px;
+}
+
+.black3{
+    height: 51px;
+    width: 267px;
+    font-family: Inter;
+    font-size: 10px;
+    font-weight: lighter;
+    color: #5E6170;
+    position: relative;
+    left: 540px;
+    bottom: 420px;
+}
+
+.black4{
+    height: 51px;
+    width: 267px;
+    font-family: Inter;
+    font-size: 10px;
+    font-weight: lighter;
+    color: #5E6170;
+    position: relative;
+    left: 540px;
+    bottom: 450px;
+}
+
+h2{
+    height: 127px;
+    width: 193px;
+    font-family: Inconsolata;
+    font-size: 28px;
+    font-weight: bolder;
+    color: #5E6170;
+    position: relative;
+    left: 540px;
+    bottom: 850px;
+}
+
+.white{
+    height: 26px;
+    width: 46px;
+    font-family: Inter;
+    font-size: 8px;
+    font-weight: bold;
+    color: #5D6170;
+    position: relative;
+    bottom: 995px;
+    left: 570px;
+}
+
+.white2{
+    height: 26px;
+    width: 46px;
+    font-family: Inter;
+    font-size: 8px;
+    font-weight: lighter;
+    color: #5D6170;
+    position: relative;
+    bottom: 1015px;
+    left: 570px;
+}
+
+.white3{
+    height: 26px;
+    width: 46px;
+    font-family: Inter;
+    font-size: 8px;
+    font-weight: bolder;
+    color: #5D6170;
+    position: relative;
+    bottom: 1055px;
+    left: 670px;
+}
+
+.circle1 {
+    height:19px;
+    width: 19px;
+    background-color: white;
+    border-radius: 50%;
+    position: relative;
+    bottom: 1029px;
+    left: 690px;
+    border: 3px solid #43E19E;
+  }
+
+  .circle2{
+    height:19px;
+    width: 19px;
+    background-color: white;
+    border-radius: 50%;
+    position: relative;
+    bottom: 1010px;
+    left: 690px;
+    border: 3px solid #43E19E;
+  }
+
+  .circle3{
+    height:19px;
+    width: 19px;
+    background-color: white;
+    border-radius: 50%;
+    position: relative;
+    bottom: 980px;
+    left: 690px;
+    border: 3px solid #ECEFF4;
+  }
+
+  .circle4{
+    height:19px;
+    width: 19px;
+    background-color: white;
+    border-radius: 50%;
+    position: relative;
+    bottom: 970px;
+    left: 690px;
+    border: 3px solid #ECEFF4;
+  }
+
+  .circle5{
+    height:19px;
+    width: 19px;
+    background-color: white;
+    border-radius: 50%;
+    position: relative;
+    bottom: 950px;
+    left: 690px;
+    border: 3px solid #ECEFF4;
+  }
+
+  .circle6{
+    height:19px;
+    width: 19px;
+    background-color: white;
+    border-radius: 50%;
+    position: relative;
+    bottom: 940px;
+    left: 690px;
+    border: 3px solid #ECEFF4;
+  }
+
+  .circle7{
+    height:19px;
+    width: 19px;
+    background-color: white;
+    border-radius: 50%;
+    position: relative;
+    bottom: 930px;
+    left: 690px;
+    border: 3px solid #ECEFF4;
+  }
